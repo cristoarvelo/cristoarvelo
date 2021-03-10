@@ -13,7 +13,9 @@ author:
   twitter_username: cdarka
   facebook_username: cdarka
   github_username:  cristoarvelo
-  linkedin_username:
+  linkedin_username: cristoarvelo
+  show_blog: false
+  show_blog: false
 
 defaults:
   -
