@@ -15,7 +15,7 @@ author:
   github_username:  cristoarvelo
   linkedin_username: cristoarvelo
   show_blog: false
-  show_blog: false
+  show_rss: false
 
 defaults:
   -
