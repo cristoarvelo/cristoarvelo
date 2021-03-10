@@ -1,7 +1,7 @@
 # Site settings
 title: Cristo Arvelo
 description: 'Cristo Arvelo - Portfolio'
-url: 'https://cristoarvelo.github.com/cristoarvelo'
+url: 'https://cristoarvelo.github.io/cristoarvelo/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -12,8 +12,8 @@ author:
   email: cdarka@gmail.com
   twitter_username: cdarka
   facebook_username: cdarka
-  github_username:  cdarka
-  linkedin_username:  cdarka
+  github_username:  cristoarvelo
+  linkedin_username:
 
 defaults:
   -
